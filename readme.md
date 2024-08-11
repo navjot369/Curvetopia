@@ -32,13 +32,15 @@ This project, developed for [Hackathon Name], is a Python-based tool for process
 ## Project Structure
 
 ```
-shape_processing/
+Curvetopia/
 ├── __init__.py
 ├── utils.py
 ├── geometry.py
 ├── visualization.py
+├── problems/
+├── CSVtoSVG.py
+├── README.md
 └── main.py
-README.md
 ```
 
 ## Usage
@@ -74,7 +76,6 @@ The entry point of the application, orchestrating the entire shape processing pi
 ![1723393051580](image/readme/1723393051580.png)
 
 ![1723393061387](image/readme/1723393061387.png)![1723393299893](image/readme/1723393299893.png)
-
 
 ## Detailed Algorithm Analysis
 
