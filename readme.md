@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, developed for [Hackathon Name], is a Python-based tool for processing, analyzing, and visualizing geometric shapes. It offers functionalities such as shape detection, occlusion filling, symmetry analysis, and SVG generation.
+This project, developed for adobe hackathon, is a Python-based tool for processing, analyzing, and visualizing geometric shapes. It offers functionalities such as shape detection, occlusion filling, symmetry analysis, and SVG generation.
 
 ## Features
 
