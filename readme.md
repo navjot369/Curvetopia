@@ -71,8 +71,10 @@ The entry point of the application, orchestrating the entire shape processing pi
 
 ## Example Output
 
+![1723393051580](image/readme/1723393051580.png)
 
-[Include some example images or descriptions of the output here]
+![1723393061387](image/readme/1723393061387.png)![1723393299893](image/readme/1723393299893.png)
+
 
 ## Detailed Algorithm Analysis
 
